@@ -2,3 +2,8 @@
     background: #01559e;
     color: white;
 }
+
+#history {
+    height: 70vh;
+    overflow: auto;
+}
